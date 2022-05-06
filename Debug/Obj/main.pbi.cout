@@ -1,12 +1,12 @@
-"D:\Work\Программы для Кнопок\Buttons\Attrakcioni2\main.c"
+"D:\PROCESS\Illarion\обновление проектов Иллариона\attrakciony_plata_2\main.c"
 -std=c99
 -ferror-limit=100
 -I
 D:\Work\Программы для Кнопок\Buttons\Attrakcioni2
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0_2\arm\inc
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0\arm\inc
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0_2\arm\inc\c
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0\arm\inc\c
 -I
 D:\Work\Программы для Кнопок\Buttons\Attrakcioni2
 -D__CHAR_BITS__=8
@@ -199,8 +199,8 @@ D:\Work\Программы для Кнопок\Buttons\Attrakcioni2
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=593922
--D__DATE__="May 19 2021"
--D__TIME__="13:38:03"
+-D__DATE__="May  6 2022"
+-D__TIME__="15:10:13"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
@@ -225,8 +225,8 @@ D:\Work\Программы для Кнопок\Buttons\Attrakcioni2
 -D__EDG_SYSV=0
 -D__EDG_ANSIC=1
 -D__EDG_CPP0X_IL_EXTENSIONS_SUPPORTED=1
--D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0_2\arm\INC\c\DLib_Config_Normal.h"
--D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.0_2\\arm\\INC\\c\\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0\arm\INC\c\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.0\\arm\\INC\\c\\DLib_Config_Normal.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V7.20.1.7305/W32 for ARM"
 -D_VA_DEFINED=
 -D__CODE_MEMORY_LIST1__()=__CODE_MEM_HELPER1__(__code, 0 )
